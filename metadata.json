@@ -1,0 +1,6 @@
+{
+  "name": "HireScreen – HR Recruitment & Candidate Screening Platform",
+  "description": "Multi-company HR recruitment and automated candidate screening platform with role-based isolation, intelligent resume fit scoring, and candidate pre-ranking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
